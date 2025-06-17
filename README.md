@@ -18,7 +18,7 @@ If you're interested in accessing any of my private projects, please contact me 
 - A brief reason for the request
 
 📩 **How to request access:**
-- Option 1: **Open an issue** in README repository [click here](https://github.com/Jernas04?tab=repositories) and politely request access.
+- Option 1: **Open an issue** in README repository [click here](https://github.com/Jernas04/Jernas04?tab=repositories) and politely request access.
 - Option 2: Email me directly
 
 
