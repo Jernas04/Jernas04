@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Hello! I'm Jernas.
 
-<!--
-**Jernas04/Jernas04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile. I’m currently working on some interesting projects — some are public, and others are kept private for various reasons (personal, early stage, etc.).
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔐 Access to Private Repositories
+
+Some of my repositories are **private**, but I’m open to sharing access **upon request**, especially for:
+
+- Collaboration
+- Code review
+- Portfolio reference
+
+If you're interested in accessing any of my private projects, please contact me with:
+
+- Your **GitHub username**
+- A brief reason for the request
+
+📩 **Contact me:**
+- GitHub: [@Jernas04](https://github.com/Jernas04)
+- Email: sawarijernas@gmail.com
+         funpath7@gmail.com
+
+---
+
+## 🚀 Technologies I Use
+
+- Flutter / Dart
+- Android Studio / VsCode
+- Firebase
+- Java
+- SQL
+- Figma
+- HTML, CSS, JavaScript
+- Git & GitHub
+
+---
+
+Thanks for visiting! ✨
